@@ -106,9 +106,9 @@ AUC score demonstrates performance beyond simple accuracy.
 (Insert `roc_curve.png`)
 
 ---
+## 📁 Folder Structure
 
-## 📌 **Folder Structure**
-
+```
 medical-image-classification-3d-cnn/
 │
 ├── notebooks/
@@ -126,6 +126,7 @@ medical-image-classification-3d-cnn/
 │
 ├── requirements.txt
 └── README.md
+```
 
 ## 👤 **Author**
 
